@@ -1,0 +1,1 @@
+Sample Application for Ruby on Rails Tutorial
